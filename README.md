@@ -7,6 +7,8 @@ I am oneMoreTime1357
 
 <!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oneMoreTime1357&theme=blue-green&show_icons=true) -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oneMoreTime1357&layout=compact)](https://github.com/oneMoreTime1357)
+
 
 - 🌲 My blog https://onemoretime1357.github.io/
 
