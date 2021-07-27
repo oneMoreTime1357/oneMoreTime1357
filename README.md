@@ -5,6 +5,9 @@ I am oneMoreTime1357
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=oneMoreTime1357&theme=vue-dark&show_icons=true" width="45%" />
 </a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oneMoreTime1357&theme=blue-green&show_icons=true)
+
+
 - 🌲 My blog https://onemoretime1357.github.io/
 
 <!--
